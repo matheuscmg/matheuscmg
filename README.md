@@ -1,4 +1,6 @@
-
+- 🎊 21 years
+- 💻 Eng. Software 4/8
+- 🌎 Campinas-SP
 - 🌱 Estudando Programação web e moblie,python e SQL
  <div>
   <a href="https://github.com/matheuscmg">
