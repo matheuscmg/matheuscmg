@@ -5,10 +5,10 @@
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheuscmg&theme=radical"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuscmg&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscmg&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscmg&theme=radical&hide_border=true"/>
 	 	  	  
-### A little about me...  <img src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width="60"> 
+###Um pouco sobre mim...  <img src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width="60"> 
 Um desenvolvedor apaixonado.
   
-###  ⚙️ Some Tool and Tech I use:     
+###  ⚙️ Algumas ferramentas e tecnologias que uso:     
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	     
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -25,7 +25,7 @@ Um desenvolvedor apaixonado.
   <div align="leaft">
 
   
- ## 📫 How to reach me?
+ ## 📫 Como chegar até mim?
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-camargoo/)
