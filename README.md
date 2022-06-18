@@ -2,7 +2,6 @@
 - 🎊 22 years
 - 💻 Eng. Software 5/8
 - 🌎 Campinas-SP
-- 🌱 Estudando Programação web e moblie,python e SQL
 
 <div>
   <img   width ="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
