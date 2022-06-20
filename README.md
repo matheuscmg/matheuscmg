@@ -6,7 +6,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuscmg&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscmg&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscmg&theme=radical&hide_border=true"/>
 	 	  	  
 ###Um pouco sobre mim...  <img src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width="60"> 
-Um desenvolvedor apaixonado.
+<br>Um desenvolvedor apaixonado.
   
 ###  ⚙️ Algumas ferramentas e tecnologias que uso:     
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
